@@ -1,79 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Gassjok & Delivery Makanan</title>
-    <link href="css/style.css" rel="stylesheet" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.min.css"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Days+One&family=Rambla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-  </head>
-  <body class="bg-gray-100">
-    <!-- Navbar -->
-    <header class="sticky top-0 lg:h-[90px] h-[60px] bg-slate-900 z-30">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GASJek Transportasi & Makanan</title>
+  <link href="css/finish.min.css" rel="stylesheet" />
+  <!-- favico -->
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+  <link rel="icon" type="image/ico" sizes="16x16" href="img/favicon/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/android-chrome-512x512.png">
+  <link rel="manifest" href="img/favicon/site.webmanifest">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.min.css" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Days+One&family=Rambla:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+</head>
+
+<body class="bg-gray-100">
+  <!-- Navbar -->
+  <header class="sticky top-0 lg:h-[90px] h-[60px] bg-white z-30">
+    <div class="container mx-auto px-4 flex justify-between h-full items-center">
+      <!-- Logo -->
+      <a href="#" class="flex items-center">
+        <img src="img/logo_gasjek.png" alt="Logo" class="h-[50px]" />
+        <span class="lg:text-3xl text-2xl font-primary text-secondary">gasjek</span>
+      </a>
+
+      <nav>
+        <!-- nav mobile triger -->
+        <div class="cursor-pointer lg:hidden" id="nav_toggle">
+          <i id="nav_icon" class="ri-menu-3-line text-2xl text-secondary"></i>
+        </div>
+        <ul
+          class="fixed w-full h-0 p-0 bg-slate-200 lg:bg-white overflow-hidden border-r top-[60px] left-0 right-0 flex flex-col lg:gap-8 gap-4 lg:relative lg:flex-row lg:p-0 lg:top-0 border-none lg:h-full transition-all duration-300"
+          id="nav_menu">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#services">Layanan</a></li>
+          <li><a href="#driver">Driver</a></li>
+          <li><a href="#contact">Kontak</a></li>
+          <li><a href="#en">EN</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Home Section -->
+  <main class="mx-w-[1920px] mx-auto bg-white overflow-hidden" id="home">
+    <div class="xl:bg-grid xl:bg-center xl-bg-repeat-y fixed top-0 bottom-0 left-0 right-0 z-10"></div>
+    <section class="hero h-[640px] xl:h[840px] bg-hero bg-center lg:bg-cover bg-no-repeat relative z-20">
       <div
-        class="container mx-auto px-4 flex justify-between h-full items-center"
-      >
-        <!-- Logo -->
-        <a href="#" class="flex items-center">
-          <img src="img/gojek.png" alt="Logo" class="h-[50px]" />
-          <span class="lg:text-3xl text-2xl font-semibold text-white">Gassjok</span>
-        </a>
+        class="container lg:pr-32 mx-auto h-full flex flex-col lg:flex-row items-center justify-center xl:justify-start xl:space-x-8">
+        <!-- Bagian Selamat Datang -->
+        <div class="flex flex-col items-center text-center lg:text-left lg:items-start">
+          <h1 class="h1">Nikmati Pelayanan Terbaik Bersama GASJek.</h1>
+          <p class="mb-4 font-secondary">Layanan terbaik untuk pesan ojek dan delivery makanan.</p>
+        </div>
+      </div>
+    </section>
+  </main>
 
-        <nav>
-          <!-- nav mobile triger -->
-          <div class="cursor-pointer lg:hidden" id="nav_toggle">
-            <i id="nav_icon" class="ri-menu-3-line text-2xl text-white"></i>
+
+  <!-- Footer -->
+  <footer class="footer-wrapper c-footer bg-secondary text-white lg:py-16">
+    <div class="container border-b border-gray-shade3 py-10">
+      <div>
+        <img class="mb-14 justify-center" src="https://lelogama.go-jek.com/prime/upload/gojek-horizontal-logo-white.svg"
+          alt="Logo Gasjek">
+        <div class="menu__list grid grid-cols-2 md:grid-cols-5 gap-10">
+          <div class="menu__container">
+            <p class="c-footer__title mb-5 md:mb-8 lg:mb-6 font-semibold">Company</p>
+            <ul class="space-y-4 md:space-y-6 lg:space-y-4">
+              <li class="gj-footer-list">
+                <a class="text-white text-lg font-secondary" href="#">About</a>
+              </li>
+              <li class="gj-footer-list">
+                <a class="text-white text-lg font-secondary" href="#">Products</a>
+              </li>
+              <li class="gj-footer-list">
+                <a class="text-white text-lg font-secondary" href="#">Blog</a>
+              </li>
+            </ul>
           </div>
-          <ul class="fixed w-full h-0 p-0 bg-slate-900 overflow-hidden border-r top-[50px] left-0 right-0 flex flex-col lg:gap-8 gap-4 lg:relative lg:flex-row lg:p-0 lg:top-0 border-none lg:h-full transition-all duration-300" id="nav_menu">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#services">Layanan</a></li>
-            <li><a href="#driver">Driver</a></li>
-            <li><a href="#contact">Kontak</a></li>
-            <li><a href="#en">EN</a></li>
-          </ul>
-        </nav>
+        </div>
       </div>
-    </header>
+    </div>
+  </footer>
 
-    <!-- Home Section -->
-    <main class="mx-w-[1920px] mx-auto bg-white overflow-hidden" id="home">
-      <div
-        class="xl:bg-grid xl:bg-center xl-bg-repeat-y fixed top-0 bottom-0 left-0 right-0 z-10"
-      ></div>
-        <section
-          class="hero h-[640px] xl:h[840px] bg-hero bg-center lg:bg-cover bg-no-repeat relative z-20"
-        >
-        <div class="container mx-auto h-full flex items-center justify-center xl:justify-start">
-          <div class="hero__text w-[567px] flex flex-col items-center justify-center text-center xl:text-left lg:items-start lg:flex-row lg:justify-between">
-            <h1 class="h1">Selamat Datang di Gassjok</h1>
-            <p class="mb-8 font-secondary">Layanan terbaik untuk pesan ojek dan delivery makanan</p>
-            <div class="flex flex-row justify-center items-center gap-4 xl:gap-8">
-              <a href="#" class="btn btn-primary"><i class="ri-restaurant-fill"></i>Lihat Katalog</a>
-              <a href="#" class="btn btn-secondary"><i class="ri-shopping-bag-fill"></i>GassKan</a>
-            </div>
-          </div>
-        </div>        
-        </section>
-      </div>
-      
-    </main>
+  <!-- JavaScript dependencies -->
+  <script src="js/scrollreveal.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
 
-    <!-- Footer -->
-    <footer class="py-8 bg-gray-900 text-white text-center">
-      <div class="container mx-auto px-4">
-        <p>&copy; 2024 Gassjok. All Rights Reserved.</p>
-      </div>
-    </footer>
-
-    <!-- JavaScript dependencies -->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
-    <script src="js/scrollreveal.min.js"></script>
-    <script src="js/script.js"></script>
-  </body>
 </html>

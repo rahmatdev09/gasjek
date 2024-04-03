@@ -1,18 +1,19 @@
 {
-  "name": "gassjok",
+  "name": "gasjek",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "homepage": "http://127.0.0.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "css": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "build": "npx tailwindcss -i ./src/css/input.css -o ./public/css/finish.min.css --minify"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.18",
+    "firebase-tools": "^13.6.1",
     "postcss": "^8.4.36",
     "tailwindcss": "^3.4.1"
   },
