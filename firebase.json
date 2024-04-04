@@ -5,7 +5,18 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/privacy-policy",
+        "destination": "/privacy-policy.html"
+      }
+    ],
+    "cleanUrls": true
   },
   "emulators": {
     "hosting": {
