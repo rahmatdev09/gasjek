@@ -1,0 +1,386 @@
+{
+	"status": 1,
+	"message": "success",
+	"address": [
+		{
+			"id": 1,
+			"name": "Unsri",
+            "full": "Unsri Indralaya, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2172019187632603,
+			"longitude": 104.6487943554097
+		},
+		{
+			"id": 2,
+			"name": "Gang Lampung 1",
+            "full": "Gang Lampung Indralaya,Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2070249051902944,
+			"longitude": 104.6487169113973
+		},
+		{
+			"id": 3,
+			"name": "Gang Lampung 2",
+            "full": "Gang Lampung 2 Indralaya, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2062651170500676, 
+			"longitude": 104.64925428424499
+		},
+		{
+			"id": 4,
+			"name": "Gang Buntu",
+            "full": "Gang Buntu Indralaya, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.206954319452134,
+			"longitude": 104.64941137343547
+		},
+		{
+			"id": 6,
+			"name": "Jalan Sarjana",
+            "full": "Jalan Sarjana Indralaya,Kecamatan Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.1949660630820507,
+			"longitude": 104.65957113620111
+		},
+		{
+			"id": 7,
+			"name": "Timbangan",
+            "full": "Timbangan Indralaya, Kecamatan Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2005042347967523,
+			"longitude": 104.65658851984952
+		},
+        {
+			"id": 8,
+			"name": "Jalan Lingkar Citra",
+            "full": "Timbangan Indralaya, Kecamatan Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2157472785339647, 
+			"longitude": 104.65943006488457
+		},
+        {
+			"id": 9,
+			"name": "Perumahan Griya Sejahterah",
+            "full": "Timbangan Indralaya, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.207897842020577,  
+			"longitude": 104.64484677987365
+		},
+        {
+			"id": 10,
+			"name": "Payakabung",
+            "full": "Payakabung, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.198975043216738, 
+			"longitude": 104.60464582842164
+		},
+        {
+			"id": 11,
+			"name": "Jl. Nurul Persada",
+            "full": "Indralaya Indah, Kec. Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2301702679573054, 
+			"longitude": 104.6642034130805
+		},
+        {
+			"id": 12,
+			"name": "Komplek Serai Indah Indralaya",
+            "full": "Jl. Lintas Sumatra No.234, Indralaya Raya, Kec. Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2228063377920866, 
+			"longitude": 104.6656409395404
+		},
+        {
+			"id": 13,
+			"name": "Jl. Muhajirin",
+            "full": "Indralaya Raya, Kec. Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan",
+			"latitude": -3.23376585086768,  
+			"longitude": 104.66402739773915
+		},
+        {
+			"id": 14,
+			"name": "Komplek Persada",
+            "full": "Persada Indralaya Indah, Kec. Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2311521799492224,   
+			"longitude": 104.6619889190265
+		},
+        {
+			"id": 15,
+			"name": "Jl. M. Tamyiz",
+            "full": "Timbangan, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.204967192740495,  
+			"longitude": 104.66004472657427
+		},
+        {
+			"id": 16,
+			"name": "Jl. Indralaya Radio",
+            "full": "Jl. Nusantara No.45, RW.Km. 32, Timbangan, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.208582419746447,   
+			"longitude": 104.65269107476476
+		},
+        {
+			"id": 17,
+			"name": "Perumahan Segonang Jaya",
+            "full": "Tj. Pering, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.208608289011211,    
+			"longitude": 104.63851410887925
+		},
+        {
+			"id": 18,
+			"name": "Jalan Pasirah Mat Nang",
+            "full": "Tj. Pering, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.2101883103163353,     
+			"longitude": 104.63644344367381
+		},
+        {
+			"id": 19,
+			"name": "Tanjung Senai",
+            "full": "Komplek Perkantoran Terpadu Tanjung Senai, Sakatiga, Kec. Indralaya, Kabupaten Ogan Ilir, Sumatera Selatan 30817",
+			"latitude": -3.2539629629000606,      
+			"longitude": 104.65032219765894
+		},
+        {
+			"id": 20,
+			"name": "Palembang",
+            "full": "Kota Palembang",
+			"latitude": -2.9755314966094093,       
+			"longitude": 104.77394207367135
+		},
+        {
+			"id": 21,
+			"name": "Sekip Jaya",
+            "full": "Kec. Kemuning, Kota Palembang, Sumatera Selatan",
+			"latitude": -2.965211167774337,        
+			"longitude": 104.75646524336574
+		},
+        {
+			"id": 22,
+			"name": "Demak",
+            "full": "Kec. Demak, Kabupaten Demak, Jawa Tengah",
+			"latitude": -6.891507787634848,        
+			"longitude": 110.6394861500329
+		},
+        {
+			"id": 22,
+			"name": "Wuluh",
+            "full": "Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah",
+			"latitude": -6.991104900515446,         
+			"longitude": 110.56327910407396
+		},
+        {
+			"id": 23,
+			"name": "Alun Alun Demak",
+            "full": "Jl. Sultan Fatah No.41, Kauman, Bintoro, Kec. Demak, Kabupaten Demak, Jawa Tengah 59511",
+			"latitude": -6.894852228747328,          
+			"longitude": 110.63864868361017
+		},
+        {
+			"id": 24,
+			"name": "Jalan Kyai Tarmudzi",
+            "full": "Bintoro, Kec. Demak, Kabupaten Demak, Jawa Tengah",
+			"latitude": -6.8968014027812465,          
+			"longitude": 110.63961427855611
+		},
+        {
+			"id": 25,
+			"name": "Jl. Purwoali",
+            "full": "Jl. Purwoali 48-4, Stinggil, Bintoro, Kec. Demak, Kabupaten Demak, Jawa Tengah 59511",
+			"latitude": -6.89480355729094,         
+			"longitude": 110.64063252043533
+		},{
+			"id": 26,
+			"name": "Jl. Raya Pamongan",
+            "full": "Karanggawang, Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.9949234357475545,     
+			"longitude": 110.58037519472337 
+		},
+        {
+			"id": 27,
+			"name": "Bengkel ninja K-TECH speed",
+            "full": "2H5H+3CV, Anggeng Jaya II, Karanggawang, Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.992213262278966,    
+			"longitude": 110.57856403272532 
+		},
+        {
+			"id": 28,
+			"name": "Anggeng Jaya II",
+            "full": "Anggeng Jaya II, Karanggawang, Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.994023595989869,     
+			"longitude": 110.57837359587334 
+		},
+{
+			"id": 29,
+			"name": "Anggeng Jaya III",
+            "full": "Anggeng Jaya III, Karanggawang, Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.993134970922711,     
+			"longitude": 110.57743176647982 
+		},
+        {
+			"id": 30,
+			"name": "Anggeng Jaya I",
+            "full": "Anggeng Jaya I, Karanggawang, Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.994184005703767,      
+			"longitude": 110.57978201760747 
+		},
+        {
+			"id": 31,
+			"name": "Jl. Perseda",
+            "full": "Jl. Preseda, Sandan, Sidokumpul, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.992780890814002,    
+			"longitude": 110.5755944533495
+		},
+        {
+			"id": 32,
+			"name": "Jl. Laskar Pemuda",
+            "full": "Jl. Laskar Pemuda, Kawung, Sukorejo, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.991569277042171,    
+			"longitude": 110.5869424378485
+		},
+        {
+			"id": 33,
+			"name": "Mushola Nurul Iman",
+            "full": "Gendol, Sarirejo, Kec. Guntur, Kabupaten Demak, Jawa Tengah 59565",
+			"latitude": -6.995274851980475,     
+			"longitude": 110.58542713519113
+		},
+        {
+			"id": 34,
+			"name": "Jalan Restu Iman Asri I",
+            "full": "Jl. Restu Iman Asri I, Sarjana, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.1950807943911665,     
+			"longitude": 104.65957785406421
+		},
+        {
+			"id": 35,
+			"name": "Jalan Restu Iman Asri II",
+            "full": "Jl. Restu Iman Asri II, Sarjana, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.1957302293317484,    
+			"longitude": 104.65963696583839
+		},
+        {
+			"id": 36,
+			"name": "Jalan Sarjana",
+            "full": "Jl. Sarjana, Timbangan, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.197874829888846,     
+			"longitude": 104.6595970380267
+		},
+        {
+			"id": 37,
+			"name": "Gang Padang Guci",
+            "full": "Gg. Padang Guci, Sarjana, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.191854370077583,      
+			"longitude": 104.65955834546641
+		},
+        {
+			"id": 38,
+			"name": "Lorong Masjid 1",
+            "full": "Lrg. Masjid 1, Sarjana, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.195354623908502,  
+			"longitude": 104.65978840747347
+		},
+        {
+			"id": 39,
+			"name": "Lorong Masjid 3",
+            "full": "Lrg. Masjid 3, Sarjana, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.1958105733583397,   
+			"longitude": 104.65989659293022
+		},
+        {
+			"id": 40,
+			"name": "Lorong Sepakat Jaya",
+            "full": "Timbangan, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan",
+			"latitude": -3.200424219123782,      
+			"longitude": 104.65696874951959
+		},
+        {
+			"id": 41,
+			"name": "Lorong Keluarga",
+            "full": "Timbangan, Kecamatan Indralaya Utara, Kabupaten Ogan Ilir, Sumatera Selatan",
+			"latitude": -3.200926348824487,      
+			"longitude": 104.6567488083947
+		},
+        {
+			"id": 42,
+			"name": "IP International Plaza Palembang",
+            "full": "Internasional Plaza, 18 Ilir, Kec. Ilir Tim. I, Kota Palembang, Sumatera Selatan",
+			"latitude": -2.983857704121999,      
+			"longitude": 104.75750291963034
+		},
+        {
+			"id": 43,
+			"name": "Jakabaring Sport City",
+            "full": "15 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera Selatan 30267",
+			"latitude": -3.0181655437521817,      
+			"longitude": 104.79194217300397
+		},
+        {
+			"id": 44,
+			"name": "OPI MALL",
+            "full": "Jl. Gubernur H. A Bastari, Sungai Kedukan, Kec. Rambutan, Kab. Banyuasin, Sumatera Selatan",
+			"latitude": -3.0359048938334845,       
+			"longitude": 104.79156399631735
+		},
+        {   
+			"id": 45,
+			"name": "Kost Keysha",
+            "full": "Lorong sepakat jaya Lk 2 Rt 04 Kel. Timbangan Kec. Indralaya, Utara, Kab, Kabupaten Ogan Ilir, Sumatera Selatan 30862",
+			"latitude": -3.201084875814792,       
+			"longitude": 104.65845308097585
+		}, {   
+			"id": 46,
+			"name": "SD Negeri 11 Gelumbang",
+            "full": "Kerta Mulya, Gelumbang, Muara Enim",
+			"latitude": -3.2156501917251887,       
+			"longitude": 104.36392676031682
+		}, {   
+			"id": 47,
+			"name": "Jl. Pasirah Mastanum",
+            "full": "Jl. Pasirah Mastanum, Kerta Mulya, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.2154140795000754, 
+			"longitude": 104.36285879463183   
+		}, {   
+			"id": 48,
+			"name": "Masjid Nurul-Iman Desa Kartamulia",
+            "full": "Kerta Mulya, Gelumbang, Muara Enim Regency, South Sumatra",
+			"latitude": -3.2137734589059495, 
+			"longitude": 104.36144633968667   
+		}, {   
+			"id": 48,
+			"name": "Masjid Nurul-Iman Desa Kartamulia",
+            "full": "Kerta Mulya, Gelumbang, Muara Enim Regency, South Sumatra",
+			"latitude": -3.2137734589059495, 
+			"longitude": 104.36144633968667   
+		}, {   
+			"id": 49,
+			"name": "Kedai ABG STREET",
+            "full": "Jl. Merdeka No.10, Gelumbang, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.2404052957266902, 
+			"longitude": 104.43795829643524
+		}, {   
+			"id": 50,
+			"name": "Kedai ABG STREET",
+            "full": "Jl. Merdeka No.10, Gelumbang, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.2404052957266902, 
+			"longitude": 104.43795829643524
+		}, {   
+			"id": 51,
+			"name": "Indomaret Gelumbang",
+            "full": "Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.2384967217896943, 
+			"longitude": 104.43634964525825
+		}, {   
+			"id": 51,
+			"name": "Indomaret Gelumbang",
+            "full": "Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.2384967217896943, 
+			"longitude": 104.43634964525825
+		}, {   
+			"id": 52,
+			"name": "Pasar Gelumbang",
+            "full": "Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.236772136225955,
+			"longitude": 104.43485386987379
+		}, {   
+			"id": 53,
+			"name": "EMDY Kids & Babyshop",
+            "full": "Jl. Letnan Muchtar Saleh, Putak, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.235963256515787,
+			"longitude": 104.44085839237685
+		}, {   
+			"id": 54,
+			"name": "SD Negeri 1 Gelumbang",
+            "full": "Jl. Merdeka, Gelumbang, Kec. Gelumbang, Kabupaten Muara Enim, Sumatera Selatan",
+			"latitude": -3.242525045103979,
+			"longitude": 104.44008688560827
+		}
+	]
+}
