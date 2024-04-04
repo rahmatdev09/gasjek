@@ -14,6 +14,10 @@
       {
         "source": "/privacy-policy",
         "destination": "/privacy-policy.html"
+      },
+      {
+        "source": "/api/address",
+        "destination": "/address.json"
       }
     ]
   },
